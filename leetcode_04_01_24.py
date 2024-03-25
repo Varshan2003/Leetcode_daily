@@ -10,4 +10,3 @@ class Solution:
             if (value%3):
                 ans+=1
         return ans
-
